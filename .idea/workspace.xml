@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="822f1217-90fa-4f90-9c66-8d7b4fc902c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aItYr8Q0Uti2l77An5JqVFvJKg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OneDrive\ReSearch\Source\Python\ERC\ECG_feature_engineeinrg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.extractor">
+    <configuration name="extractor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ECG_feature_engineeinrg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/extractor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ECG_feature_engineeinrg" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.extractor" />
+        <item itemvalue="Python.solver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="822f1217-90fa-4f90-9c66-8d7b4fc902c2" name="Default Changelist" comment="" />
+      <created>1586435835543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586435835543</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586446855161">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586446855161" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1586435912893">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586435912893" />
+    <state width="1557" height="275" key="GridCell.Tab.0.bottom" timestamp="1586454810009">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.0.bottom/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586454810009" />
+    <state width="1557" height="275" key="GridCell.Tab.0.center" timestamp="1586454810009">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.0.center/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586454810009" />
+    <state width="1557" height="275" key="GridCell.Tab.0.left" timestamp="1586454810009">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.0.left/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586454810009" />
+    <state width="1557" height="275" key="GridCell.Tab.0.right" timestamp="1586454810009">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.0.right/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586454810009" />
+    <state width="1557" height="275" key="GridCell.Tab.1.bottom" timestamp="1586454810010">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.bottom/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586454810010" />
+    <state width="1557" height="275" key="GridCell.Tab.1.center" timestamp="1586454810010">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.center/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586454810010" />
+    <state width="1557" height="275" key="GridCell.Tab.1.left" timestamp="1586454810010">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.left/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586454810010" />
+    <state width="1557" height="275" key="GridCell.Tab.1.right" timestamp="1586454810010">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="275" key="GridCell.Tab.1.right/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586454810010" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1586436337540">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586436337540" />
+    <state width="808" height="438" key="XDebugger.FullValuePopup" timestamp="1586453894611">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="808" height="438" key="XDebugger.FullValuePopup/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586453894611" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586449714916">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586449714916" />
+    <state x="492" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1586496264783">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="492" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586496264783" />
+    <state x="370" y="166" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586446285063">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="370" y="166" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860/1600.6.900.1600@0.0.1600.860" timestamp="1586446285063" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/extractor.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="SIGNAL_STACK" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
